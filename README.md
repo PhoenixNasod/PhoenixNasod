@@ -35,5 +35,5 @@
 </div>
 
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
+  <p>Feito com JavaScript.</p>
 </div>
